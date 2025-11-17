@@ -1,12 +1,12 @@
-# 🏨 Sistema de Reserva de Hotel em C#
+# Sistema de Reserva de Hotel em C#
 
-> 🚧 Projeto Concluído 🚧
+>  Projeto Concluído 
 
 Projeto de Console Application em C# que simula um sistema de reserva de hotel. O objetivo foi aplicar na prática os conceitos fundamentais da Programação Orientada a Objetos (POO), gerenciando o cadastro de hóspedes e a reserva de uma suíte, com regras de negócio e validações.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * **Cadastro de Hóspedes:** Permite o cadastro de múltiplos hóspedes para uma mesma reserva.
 * **Escolha de Suíte:** O usuário pode escolher entre diferentes tipos de suítes (Premium, Confort, etc.), cada uma com sua própria capacidade e valor de diária.
@@ -16,7 +16,7 @@ Projeto de Console Application em C# que simula um sistema de reserva de hotel. 
 
 ---
 
-## 🛠️ Conceitos Aplicados
+## Conceitos Aplicados
 
 Este projeto foi uma oportunidade para praticar pilares essenciais do C# e da POO:
 
@@ -36,7 +36,7 @@ Este projeto foi uma oportunidade para praticar pilares essenciais do C# e da PO
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **C#**
 * **.NET**
@@ -44,7 +44,7 @@ Este projeto foi uma oportunidade para praticar pilares essenciais do C# e da PO
 
 ---
 
-## 📁 Como Usar
+## Como Usar
 
 1.  Clone o repositório:
     ```bash
