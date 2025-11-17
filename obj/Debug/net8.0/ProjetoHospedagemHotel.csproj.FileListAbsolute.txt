@@ -1,0 +1,15 @@
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/bin/Debug/net8.0/ProjetoHospedagemHotel
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/bin/Debug/net8.0/ProjetoHospedagemHotel.deps.json
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/bin/Debug/net8.0/ProjetoHospedagemHotel.runtimeconfig.json
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/bin/Debug/net8.0/ProjetoHospedagemHotel.dll
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/bin/Debug/net8.0/ProjetoHospedagemHotel.pdb
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.AssemblyInfoInputs.cache
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.AssemblyInfo.cs
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.csproj.CoreCompileInputs.cache
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.sourcelink.json
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.dll
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/refint/ProjetoHospedagemHotel.dll
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.pdb
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ProjetoHospedagemHotel.genruntimeconfig.cache
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProjetoHospedagemHotel/obj/Debug/net8.0/ref/ProjetoHospedagemHotel.dll
